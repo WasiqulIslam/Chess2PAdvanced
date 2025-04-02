@@ -242,7 +242,7 @@ public class Chess2P extends JWindow implements MouseListener, ActionListener, j
                messageU( "Before changing a chess piece\nyou have to select a chess piece first." );
                return;
             }
-            String nm[] = { "Do nothing", "White Pawn", "White Rook", "White Night", "White Bishop", "White Queen", "White King", "Black Pawn", "Black Rook", "Black Night", "Black Bishop", "Black Queen", "Black King" };
+            String nm[] = { "Do nothing", "White Pawn", "White Rook", "White Knight", "White Bishop", "White Queen", "White King", "Black Pawn", "Black Rook", "Black Knight", "Black Bishop", "Black Queen", "Black King" };
             JComboBox cb = new JComboBox( nm );
             JOptionPane.showMessageDialog( this, cb, "Choose a piece of chess from the list below.", JOptionPane.INFORMATION_MESSAGE );
             int p;
