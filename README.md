@@ -1,4 +1,7 @@
 # Chess2PAdvanced
+
+2 Player offline chess board simulator that has game save, load and replay option.
+
 This program is jdk1.3 compatible only(not jdk1.5 or near).
 
 If you have already installed java at 'C:\jdk1.3' directory you can:
