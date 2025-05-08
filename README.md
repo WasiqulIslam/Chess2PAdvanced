@@ -2,6 +2,8 @@
 
 2 Player offline chess board simulator that has game save, load and replay option.
 
+To play chess simply download the "Play Chess 2 Player Advanced v2.1.zip" zip file and extract and play (this works in Windows only). No setup is required for this.
+
 ![image](https://github.com/user-attachments/assets/59d20a8b-fbba-4e7d-81b0-765e90f974bc)
 
 This program is jdk1.3 compatible only(not jdk1.5 or near).
