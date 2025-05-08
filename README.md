@@ -1,6 +1,8 @@
-# Chess2PAdvanced
+# Chess 2 Player Advanced
 
 2 Player offline chess board simulator that has game save, load and replay option.
+
+![image](https://github.com/user-attachments/assets/59d20a8b-fbba-4e7d-81b0-765e90f974bc)
 
 This program is jdk1.3 compatible only(not jdk1.5 or near).
 
