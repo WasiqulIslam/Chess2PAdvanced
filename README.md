@@ -1,6 +1,6 @@
 # Chess 2 Player Advanced
 
-2 Player offline chess board simulator that has game save, load and replay option.
+2 Player offline chess board simulator that has game save, load and replay options.
 
 To play chess simply download the "Play Chess 2 Player Advanced v2.1.zip" zip file and extract and play (this works in Windows only). No setup is required for this.
 
